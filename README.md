@@ -1,2 +1,2 @@
 # Linguagem-C-Listas
-Listas de exercícios - Linguagem ( c ) | Lucas Timponi Mercadante Castro 
+Lista (1) de exercícios - Linguagem ( c ) | Lucas Timponi Mercadante Castro 
